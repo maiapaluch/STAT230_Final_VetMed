@@ -1,0 +1,501 @@
+Dog_Breed,Sex,Neuter_Status,Age_Years,Weight_KG,Diagnosis_Type,Visit_Outcome
+Beagle,Male,No,4.0,22.8,Acute,Deceased
+Poodle,Male,No,3.1,21.6,Acute,Deceased
+Beagle,Male,Yes,0.6,22.7,Chronic,Recovered
+German Shepherd,Female,Yes,5.3,15.1,Acute,Recovered
+Bulldog,Female,Yes,5.2,8.1,Chronic,Recovered
+Beagle,Male,No,0.2,23.4,Acute,Recovered
+Bulldog,Female,No,2.7,25.2,Acute,Deceased
+German Shepherd,Female,Yes,5.0,25.4,Acute,Recovered
+German Shepherd,Female,Yes,4.8,14.1,Acute,Recovered
+Labrador Retriever,Female,Yes,0.6,12.7,Acute,Recovered
+German Shepherd,Male,Yes,12.2,23.5,Chronic,Recovered
+German Shepherd,Female,No,2.5,23.3,Chronic,Recovered
+Labrador Retriever,Female,Yes,7.3,22.4,Chronic,Deceased
+Labrador Retriever,Female,Yes,2.5,24.9,Acute,Deceased
+German Shepherd,Female,Yes,1.8,18.0,Chronic,Recovered
+Bulldog,Male,Yes,2.2,16.5,Chronic,Ongoing
+Poodle,Female,Yes,4.0,18.7,Acute,Recovered
+Labrador Retriever,Female,No,8.2,21.4,Chronic,Recovered
+Labrador Retriever,Female,Yes,4.7,15.8,Acute,Recovered
+Poodle,Male,Yes,2.3,25.7,Acute,Recovered
+German Shepherd,Male,No,1.2,18.4,Acute,Recovered
+Bulldog,Female,Yes,7.8,18.4,Acute,Recovered
+Beagle,Male,Yes,5.0,7.1,Acute,Ongoing
+Poodle,Male,Yes,5.9,22.6,Chronic,Recovered
+Beagle,Male,No,7.2,18.1,Chronic,Recovered
+Poodle,Female,Yes,4.1,13.2,Chronic,Recovered
+Labrador Retriever,Female,Yes,4.7,36.1,Chronic,Ongoing
+Labrador Retriever,Female,No,9.5,21.7,Chronic,Recovered
+German Shepherd,Female,Yes,5.8,17.7,Chronic,Ongoing
+Bulldog,Female,Yes,3.3,23.3,Acute,Recovered
+Poodle,Male,No,0.2,17.1,Chronic,Deceased
+Poodle,Male,Yes,4.0,12.0,Acute,Recovered
+Poodle,Male,Yes,4.5,23.1,Acute,Recovered
+German Shepherd,Male,Yes,3.8,28.9,Acute,Deceased
+Bulldog,Female,No,8.7,19.4,Acute,Recovered
+Beagle,Male,Yes,7.4,16.4,Acute,Deceased
+German Shepherd,Male,Yes,4.8,23.7,Acute,Recovered
+Poodle,Male,Yes,6.7,19.3,Acute,Ongoing
+Labrador Retriever,Female,No,2.6,26.7,Acute,Recovered
+Bulldog,Female,Yes,3.9,24.1,Chronic,Recovered
+Beagle,Male,Yes,1.5,14.8,Chronic,Ongoing
+Labrador Retriever,Male,Yes,7.1,16.3,Acute,Recovered
+Bulldog,Female,Yes,1.4,22.4,Chronic,Recovered
+Beagle,Female,Yes,5.6,26.8,Chronic,Ongoing
+Beagle,Female,Yes,6.6,18.3,Acute,Recovered
+Beagle,Female,No,9.9,23.4,Acute,Recovered
+Beagle,Male,No,1.6,15.7,Acute,Ongoing
+Poodle,Female,No,9.9,8.0,Acute,Ongoing
+Bulldog,Female,Yes,5.3,32.5,Chronic,Recovered
+Bulldog,Male,Yes,7.2,30.2,Chronic,Recovered
+Poodle,Female,Yes,1.2,23.9,Acute,Ongoing
+Poodle,Female,Yes,7.1,19.3,Acute,Recovered
+Bulldog,Male,Yes,11.0,22.0,Acute,Recovered
+Beagle,Female,No,5.9,15.2,Acute,Ongoing
+Labrador Retriever,Female,No,3.0,28.0,Chronic,Recovered
+Poodle,Female,Yes,4.6,19.0,Chronic,Deceased
+Bulldog,Female,Yes,7.4,17.1,Acute,Recovered
+German Shepherd,Male,Yes,5.6,25.0,Acute,Recovered
+Bulldog,Male,Yes,1.0,16.5,Acute,Recovered
+Beagle,Female,No,0.4,26.0,Acute,Recovered
+German Shepherd,Female,No,6.3,22.4,Chronic,Ongoing
+Beagle,Male,Yes,8.3,19.2,Acute,Recovered
+Poodle,Male,Yes,3.9,22.0,Chronic,Ongoing
+Labrador Retriever,Male,Yes,6.3,17.8,Chronic,Ongoing
+German Shepherd,Male,Yes,0.4,19.8,Chronic,Recovered
+Poodle,Female,No,10.2,26.8,Acute,Recovered
+Beagle,Female,No,4.7,18.1,Acute,Deceased
+German Shepherd,Female,Yes,9.2,22.2,Chronic,Recovered
+German Shepherd,Female,No,1.8,19.8,Acute,Recovered
+Bulldog,Male,Yes,2.2,23.3,Acute,Recovered
+Poodle,Male,Yes,1.9,20.5,Acute,Recovered
+German Shepherd,Female,Yes,5.0,17.0,Chronic,Recovered
+Labrador Retriever,Female,No,4.9,15.5,Acute,Recovered
+Labrador Retriever,Male,No,7.5,13.4,Acute,Recovered
+Bulldog,Male,Yes,3.0,18.7,Acute,Recovered
+German Shepherd,Male,Yes,5.8,9.3,Chronic,Recovered
+Bulldog,Female,Yes,2.7,13.3,Chronic,Recovered
+Bulldog,Male,Yes,3.1,29.0,Chronic,Recovered
+Bulldog,Male,Yes,1.3,6.9,Acute,Recovered
+German Shepherd,Female,Yes,2.3,16.3,Acute,Recovered
+German Shepherd,Female,No,5.5,17.4,Acute,Recovered
+Beagle,Female,Yes,4.5,27.8,Chronic,Deceased
+Bulldog,Female,Yes,2.7,12.5,Acute,Recovered
+Bulldog,Male,Yes,3.0,21.5,Chronic,Recovered
+Bulldog,Male,Yes,5.7,17.9,Acute,Recovered
+Bulldog,Male,Yes,0.5,19.8,Chronic,Recovered
+Labrador Retriever,Female,Yes,2.9,18.2,Acute,Deceased
+German Shepherd,Male,No,5.8,14.6,Acute,Recovered
+Bulldog,Male,Yes,7.5,24.2,Acute,Recovered
+German Shepherd,Male,Yes,3.9,22.9,Acute,Recovered
+Poodle,Male,No,5.0,22.5,Acute,Ongoing
+Bulldog,Female,No,1.6,21.1,Acute,Recovered
+German Shepherd,Female,Yes,3.4,23.6,Chronic,Recovered
+Beagle,Female,Yes,4.1,18.0,Chronic,Recovered
+Bulldog,Male,No,5.0,20.7,Acute,Recovered
+Poodle,Female,Yes,0.6,23.6,Chronic,Recovered
+Bulldog,Male,Yes,7.4,26.3,Chronic,Ongoing
+German Shepherd,Female,Yes,0.4,17.3,Chronic,Ongoing
+Labrador Retriever,Male,Yes,9.6,10.6,Chronic,Recovered
+Labrador Retriever,Male,No,6.0,18.2,Chronic,Recovered
+Bulldog,Female,Yes,8.8,18.5,Chronic,Recovered
+Labrador Retriever,Female,Yes,3.9,15.1,Acute,Recovered
+German Shepherd,Female,Yes,6.3,25.0,Acute,Recovered
+German Shepherd,Male,Yes,0.4,12.9,Chronic,Ongoing
+Labrador Retriever,Female,No,6.2,21.7,Acute,Ongoing
+Bulldog,Male,Yes,2.7,16.2,Chronic,Ongoing
+German Shepherd,Male,No,1.9,11.3,Acute,Recovered
+Bulldog,Female,Yes,3.0,21.8,Acute,Recovered
+Poodle,Female,No,4.6,25.2,Acute,Recovered
+Poodle,Female,Yes,1.1,21.8,Acute,Recovered
+German Shepherd,Female,Yes,2.5,8.2,Acute,Deceased
+Poodle,Male,Yes,0.4,29.9,Acute,Recovered
+Poodle,Female,Yes,4.9,15.4,Acute,Recovered
+Bulldog,Female,No,1.2,21.9,Chronic,Ongoing
+Poodle,Female,Yes,3.4,18.9,Chronic,Deceased
+Bulldog,Female,Yes,9.7,32.1,Chronic,Recovered
+Labrador Retriever,Female,Yes,8.9,20.7,Acute,Recovered
+Poodle,Male,No,9.3,18.0,Acute,Recovered
+Poodle,Male,No,6.7,11.2,Acute,Recovered
+Poodle,Male,Yes,3.7,18.8,Chronic,Recovered
+Poodle,Male,No,7.9,6.7,Acute,Recovered
+Labrador Retriever,Male,Yes,7.3,21.3,Chronic,Recovered
+Labrador Retriever,Male,No,4.3,24.7,Acute,Recovered
+German Shepherd,Female,Yes,6.6,13.5,Acute,Recovered
+Labrador Retriever,Male,Yes,4.3,20.3,Acute,Ongoing
+Labrador Retriever,Female,Yes,2.2,20.1,Acute,Recovered
+Poodle,Male,Yes,6.7,25.4,Acute,Recovered
+Beagle,Female,Yes,8.5,13.3,Acute,Recovered
+Beagle,Male,Yes,6.0,20.1,Acute,Ongoing
+Labrador Retriever,Female,No,7.0,21.3,Chronic,Recovered
+German Shepherd,Female,Yes,7.3,15.7,Acute,Recovered
+Labrador Retriever,Female,Yes,7.9,28.1,Chronic,Ongoing
+Beagle,Female,No,6.3,23.1,Chronic,Recovered
+Poodle,Female,Yes,9.9,24.0,Acute,Recovered
+Poodle,Male,Yes,4.9,15.0,Chronic,Recovered
+German Shepherd,Female,Yes,5.2,19.4,Acute,Ongoing
+Beagle,Male,No,1.6,22.9,Acute,Ongoing
+Bulldog,Female,Yes,7.1,19.7,Acute,Ongoing
+German Shepherd,Male,Yes,3.2,18.6,Chronic,Recovered
+Poodle,Female,Yes,4.6,10.5,Chronic,Recovered
+Bulldog,Male,No,4.1,18.1,Chronic,Recovered
+German Shepherd,Male,Yes,4.6,22.4,Acute,Recovered
+German Shepherd,Male,Yes,4.8,20.4,Acute,Recovered
+Labrador Retriever,Female,Yes,2.7,18.8,Acute,Ongoing
+German Shepherd,Male,No,1.4,18.5,Acute,Recovered
+Bulldog,Male,Yes,3.0,26.8,Acute,Ongoing
+German Shepherd,Male,No,6.2,27.2,Acute,Recovered
+Labrador Retriever,Male,Yes,4.5,27.0,Chronic,Deceased
+German Shepherd,Male,Yes,7.7,16.8,Acute,Recovered
+Beagle,Female,Yes,7.3,25.2,Chronic,Ongoing
+Beagle,Male,Yes,9.7,18.8,Acute,Recovered
+Beagle,Female,No,1.5,12.8,Acute,Ongoing
+German Shepherd,Female,Yes,2.6,21.7,Chronic,Recovered
+Bulldog,Female,Yes,11.0,20.1,Chronic,Deceased
+Beagle,Female,Yes,1.6,23.4,Chronic,Ongoing
+Bulldog,Female,Yes,8.4,20.0,Acute,Ongoing
+German Shepherd,Female,Yes,4.8,9.9,Chronic,Recovered
+German Shepherd,Female,No,3.6,17.9,Acute,Ongoing
+Bulldog,Male,No,4.4,21.4,Acute,Recovered
+Bulldog,Female,No,4.9,4.1,Chronic,Ongoing
+Beagle,Male,Yes,0.2,21.9,Acute,Recovered
+Poodle,Female,No,8.0,13.6,Acute,Deceased
+Labrador Retriever,Female,Yes,8.0,21.1,Acute,Ongoing
+Bulldog,Male,No,8.9,21.0,Chronic,Recovered
+Beagle,Female,Yes,3.4,22.3,Acute,Recovered
+Bulldog,Male,Yes,3.8,23.7,Chronic,Ongoing
+Beagle,Female,Yes,3.3,13.5,Acute,Recovered
+Beagle,Female,Yes,3.9,25.1,Acute,Recovered
+Bulldog,Female,No,10.4,13.7,Acute,Recovered
+German Shepherd,Female,Yes,8.9,20.7,Acute,Recovered
+Bulldog,Female,Yes,5.1,26.5,Acute,Recovered
+German Shepherd,Male,Yes,4.7,25.2,Chronic,Recovered
+Bulldog,Female,Yes,7.6,16.3,Acute,Recovered
+Bulldog,Female,Yes,2.5,20.5,Chronic,Ongoing
+Bulldog,Female,Yes,-0.0,22.6,Chronic,Recovered
+Bulldog,Female,Yes,5.5,16.2,Acute,Recovered
+Labrador Retriever,Female,No,6.7,15.4,Acute,Recovered
+Labrador Retriever,Female,No,4.6,17.2,Chronic,Ongoing
+Poodle,Male,Yes,4.4,21.3,Chronic,Recovered
+Poodle,Female,No,7.3,17.0,Chronic,Ongoing
+Labrador Retriever,Male,Yes,6.7,20.1,Chronic,Recovered
+Labrador Retriever,Female,No,2.8,10.3,Acute,Recovered
+Poodle,Female,Yes,2.8,24.4,Chronic,Recovered
+German Shepherd,Female,No,6.9,19.6,Acute,Recovered
+Beagle,Male,Yes,7.6,16.6,Chronic,Recovered
+German Shepherd,Male,No,3.4,20.3,Chronic,Recovered
+Poodle,Male,Yes,4.9,18.1,Acute,Recovered
+German Shepherd,Female,Yes,10.9,17.3,Chronic,Ongoing
+Bulldog,Female,No,2.2,16.2,Chronic,Recovered
+Poodle,Female,No,4.4,17.0,Acute,Recovered
+Beagle,Male,Yes,7.2,25.0,Acute,Deceased
+Beagle,Male,Yes,7.5,26.1,Acute,Recovered
+Poodle,Female,No,4.1,18.1,Chronic,Recovered
+Bulldog,Female,Yes,2.3,32.0,Acute,Recovered
+Labrador Retriever,Male,Yes,9.4,16.2,Chronic,Ongoing
+Bulldog,Female,Yes,3.3,16.9,Chronic,Recovered
+Bulldog,Female,Yes,9.0,21.9,Acute,Recovered
+Beagle,Female,Yes,7.7,19.8,Acute,Deceased
+German Shepherd,Female,Yes,7.3,21.6,Chronic,Recovered
+German Shepherd,Male,Yes,7.3,24.6,Acute,Deceased
+German Shepherd,Female,No,5.1,16.3,Acute,Recovered
+Beagle,Male,No,1.8,22.0,Acute,Ongoing
+Beagle,Male,Yes,0.1,17.8,Acute,Recovered
+Beagle,Male,No,8.6,17.5,Chronic,Recovered
+Labrador Retriever,Female,Yes,0.9,18.0,Chronic,Ongoing
+Labrador Retriever,Male,Yes,6.7,22.8,Acute,Recovered
+German Shepherd,Female,No,5.3,24.6,Acute,Recovered
+Bulldog,Female,Yes,7.4,23.6,Acute,Recovered
+Bulldog,Male,No,4.3,14.1,Acute,Recovered
+Bulldog,Female,Yes,4.8,20.0,Acute,Recovered
+German Shepherd,Female,Yes,4.8,28.8,Acute,Recovered
+Bulldog,Female,Yes,6.4,20.8,Chronic,Recovered
+German Shepherd,Female,Yes,0.6,21.6,Acute,Recovered
+Beagle,Female,Yes,8.6,18.0,Chronic,Recovered
+Poodle,Male,Yes,5.4,24.2,Acute,Recovered
+German Shepherd,Female,No,9.6,21.6,Acute,Deceased
+Labrador Retriever,Male,Yes,0.6,18.5,Acute,Recovered
+German Shepherd,Male,No,10.8,11.0,Acute,Recovered
+Poodle,Female,Yes,4.9,11.5,Acute,Recovered
+Beagle,Male,No,4.7,17.4,Acute,Ongoing
+Labrador Retriever,Female,Yes,2.6,27.9,Acute,Recovered
+German Shepherd,Female,Yes,3.1,18.7,Chronic,Recovered
+Beagle,Female,No,1.2,25.2,Chronic,Recovered
+Poodle,Female,Yes,5.6,20.0,Chronic,Recovered
+Poodle,Male,Yes,3.0,24.3,Acute,Deceased
+Poodle,Female,No,2.8,18.0,Chronic,Recovered
+Bulldog,Female,Yes,6.4,25.9,Chronic,Ongoing
+Bulldog,Male,No,4.9,20.4,Chronic,Ongoing
+German Shepherd,Female,No,1.1,18.9,Chronic,Ongoing
+Poodle,Female,Yes,5.3,11.6,Acute,Recovered
+Labrador Retriever,Male,No,11.7,27.9,Acute,Recovered
+Poodle,Male,Yes,6.9,16.1,Chronic,Recovered
+Labrador Retriever,Female,Yes,9.4,13.2,Acute,Recovered
+Labrador Retriever,Male,No,7.4,25.6,Acute,Recovered
+Labrador Retriever,Male,No,5.9,25.7,Acute,Recovered
+German Shepherd,Male,No,4.9,16.3,Chronic,Recovered
+Labrador Retriever,Female,Yes,3.8,20.1,Chronic,Ongoing
+Poodle,Female,Yes,1.7,20.1,Acute,Deceased
+Bulldog,Female,Yes,4.3,16.2,Acute,Deceased
+Beagle,Female,Yes,2.1,10.5,Acute,Ongoing
+Poodle,Female,Yes,7.4,18.8,Chronic,Recovered
+Labrador Retriever,Male,Yes,3.5,14.7,Acute,Recovered
+German Shepherd,Female,Yes,6.2,21.6,Chronic,Recovered
+Beagle,Male,Yes,8.1,18.8,Chronic,Ongoing
+Beagle,Female,Yes,4.5,20.8,Acute,Deceased
+Beagle,Male,No,0.7,20.1,Chronic,Recovered
+Beagle,Female,Yes,4.3,17.8,Acute,Recovered
+Bulldog,Male,Yes,4.3,21.7,Acute,Deceased
+Beagle,Female,No,8.8,16.5,Acute,Deceased
+German Shepherd,Female,No,2.0,24.4,Chronic,Recovered
+Labrador Retriever,Female,Yes,6.9,19.3,Acute,Ongoing
+Poodle,Female,Yes,0.1,18.3,Acute,Recovered
+German Shepherd,Male,Yes,7.5,8.4,Acute,Ongoing
+German Shepherd,Male,Yes,10.5,17.1,Acute,Ongoing
+Beagle,Male,No,4.7,22.1,Acute,Recovered
+Labrador Retriever,Male,No,4.0,14.1,Acute,Recovered
+Bulldog,Male,Yes,4.3,21.8,Chronic,Recovered
+German Shepherd,Female,Yes,3.9,13.2,Chronic,Recovered
+Bulldog,Male,Yes,8.0,25.4,Chronic,Recovered
+Bulldog,Male,Yes,9.9,23.6,Acute,Recovered
+Bulldog,Female,Yes,2.6,15.7,Acute,Recovered
+German Shepherd,Male,Yes,2.2,16.5,Chronic,Recovered
+German Shepherd,Female,Yes,3.9,16.5,Chronic,Ongoing
+German Shepherd,Female,No,1.3,25.9,Acute,Deceased
+Bulldog,Male,No,5.5,13.3,Chronic,Recovered
+German Shepherd,Female,Yes,4.5,30.1,Chronic,Recovered
+German Shepherd,Male,No,4.1,13.0,Chronic,Recovered
+Beagle,Male,Yes,4.2,13.1,Acute,Recovered
+German Shepherd,Female,Yes,3.1,21.6,Acute,Deceased
+Labrador Retriever,Female,No,1.2,13.2,Acute,Recovered
+Labrador Retriever,Female,No,9.2,13.3,Acute,Deceased
+Poodle,Male,No,5.8,22.6,Chronic,Deceased
+Beagle,Female,No,4.1,21.6,Acute,Deceased
+Bulldog,Female,Yes,5.4,24.4,Acute,Recovered
+Labrador Retriever,Female,No,6.9,24.0,Chronic,Ongoing
+Poodle,Female,Yes,6.2,24.8,Acute,Ongoing
+Beagle,Male,Yes,1.9,24.0,Chronic,Recovered
+Beagle,Female,Yes,6.2,20.0,Acute,Recovered
+German Shepherd,Male,No,9.2,24.2,Acute,Recovered
+Labrador Retriever,Male,Yes,3.9,15.0,Acute,Recovered
+Labrador Retriever,Female,Yes,10.1,23.9,Chronic,Recovered
+Beagle,Female,No,5.6,18.0,Acute,Recovered
+Poodle,Male,Yes,7.5,25.3,Acute,Recovered
+German Shepherd,Female,Yes,7.4,28.9,Chronic,Recovered
+German Shepherd,Male,Yes,4.5,13.4,Chronic,Recovered
+Bulldog,Male,No,5.5,26.3,Acute,Recovered
+Beagle,Male,Yes,3.8,26.9,Chronic,Recovered
+Poodle,Male,No,1.7,22.4,Acute,Recovered
+Beagle,Female,Yes,4.9,22.6,Acute,Ongoing
+German Shepherd,Male,No,7.5,17.3,Acute,Recovered
+Labrador Retriever,Male,Yes,4.7,22.0,Chronic,Recovered
+Bulldog,Female,Yes,5.2,28.1,Acute,Ongoing
+German Shepherd,Female,Yes,6.1,22.5,Acute,Recovered
+Bulldog,Female,No,6.7,26.5,Acute,Recovered
+Labrador Retriever,Male,Yes,4.5,22.0,Acute,Recovered
+Labrador Retriever,Female,No,1.8,20.3,Chronic,Recovered
+German Shepherd,Female,Yes,5.6,21.9,Chronic,Ongoing
+Poodle,Female,Yes,2.0,33.8,Acute,Recovered
+Bulldog,Female,Yes,8.8,7.7,Acute,Recovered
+Beagle,Female,No,4.6,12.2,Chronic,Ongoing
+Beagle,Female,Yes,3.5,27.6,Acute,Deceased
+Labrador Retriever,Female,Yes,3.2,22.0,Acute,Recovered
+Beagle,Male,No,4.2,16.5,Chronic,Ongoing
+Bulldog,Female,Yes,3.5,22.0,Acute,Recovered
+Beagle,Male,Yes,2.4,18.1,Chronic,Ongoing
+Labrador Retriever,Male,Yes,0.6,12.6,Acute,Ongoing
+Beagle,Male,No,5.1,22.2,Acute,Recovered
+German Shepherd,Female,Yes,7.6,16.4,Chronic,Deceased
+Labrador Retriever,Male,Yes,4.9,28.1,Chronic,Recovered
+Bulldog,Male,Yes,1.6,25.6,Acute,Deceased
+German Shepherd,Male,No,0.9,20.4,Chronic,Recovered
+Bulldog,Female,No,5.4,14.0,Acute,Recovered
+Labrador Retriever,Female,Yes,0.1,15.9,Acute,Ongoing
+Beagle,Male,Yes,7.5,27.0,Acute,Recovered
+Bulldog,Female,Yes,7.0,21.6,Acute,Recovered
+Bulldog,Female,Yes,3.9,17.4,Chronic,Recovered
+Poodle,Male,Yes,5.8,17.9,Chronic,Recovered
+Labrador Retriever,Male,Yes,2.7,20.1,Acute,Recovered
+Labrador Retriever,Male,Yes,9.5,18.7,Acute,Recovered
+Labrador Retriever,Male,No,9.4,17.8,Acute,Recovered
+Bulldog,Female,No,9.1,22.5,Acute,Deceased
+German Shepherd,Female,No,6.8,1.0,Acute,Recovered
+Labrador Retriever,Female,Yes,7.7,19.7,Chronic,Ongoing
+Beagle,Female,Yes,3.0,27.5,Chronic,Recovered
+German Shepherd,Male,Yes,7.9,29.6,Acute,Recovered
+Bulldog,Male,Yes,5.3,17.0,Chronic,Recovered
+Labrador Retriever,Female,No,8.0,24.9,Chronic,Recovered
+Poodle,Male,No,4.4,15.5,Acute,Recovered
+Labrador Retriever,Male,No,7.6,22.5,Acute,Recovered
+Poodle,Female,No,4.7,15.9,Chronic,Ongoing
+German Shepherd,Female,Yes,5.1,16.0,Acute,Ongoing
+Bulldog,Female,Yes,4.0,21.5,Acute,Recovered
+German Shepherd,Female,No,2.1,13.4,Chronic,Recovered
+Labrador Retriever,Male,Yes,2.9,23.1,Acute,Deceased
+Labrador Retriever,Female,Yes,6.9,17.9,Acute,Recovered
+German Shepherd,Female,Yes,3.8,15.0,Acute,Recovered
+Poodle,Male,Yes,7.2,21.7,Chronic,Recovered
+German Shepherd,Female,Yes,2.4,22.5,Chronic,Recovered
+Poodle,Male,Yes,4.0,17.7,Acute,Ongoing
+Bulldog,Female,Yes,4.6,28.1,Acute,Deceased
+Poodle,Female,Yes,5.2,20.7,Acute,Recovered
+Labrador Retriever,Male,No,8.0,24.3,Chronic,Recovered
+Labrador Retriever,Female,No,5.2,22.4,Acute,Ongoing
+Poodle,Female,No,5.3,20.3,Acute,Deceased
+Labrador Retriever,Male,Yes,6.9,17.4,Chronic,Recovered
+Bulldog,Female,Yes,1.7,11.1,Acute,Recovered
+German Shepherd,Female,Yes,6.7,27.5,Chronic,Recovered
+Poodle,Male,Yes,6.1,19.0,Acute,Recovered
+Beagle,Male,Yes,7.2,11.5,Chronic,Ongoing
+Labrador Retriever,Male,Yes,8.3,10.3,Acute,Recovered
+Labrador Retriever,Female,Yes,2.7,21.9,Chronic,Deceased
+German Shepherd,Female,Yes,1.8,27.4,Chronic,Recovered
+German Shepherd,Female,No,3.1,29.0,Chronic,Recovered
+Poodle,Male,No,2.8,13.2,Acute,Recovered
+Beagle,Female,Yes,8.1,17.4,Chronic,Recovered
+Bulldog,Male,No,1.0,24.8,Acute,Recovered
+Beagle,Male,Yes,6.9,14.4,Chronic,Recovered
+Beagle,Female,Yes,3.5,23.1,Acute,Deceased
+Beagle,Male,Yes,5.3,16.4,Acute,Recovered
+Bulldog,Female,No,5.3,18.9,Acute,Deceased
+German Shepherd,Female,No,5.3,18.4,Acute,Deceased
+Bulldog,Female,No,4.6,19.7,Acute,Recovered
+German Shepherd,Female,Yes,5.5,14.8,Acute,Ongoing
+Bulldog,Male,No,9.7,20.3,Chronic,Recovered
+Beagle,Male,Yes,7.9,23.8,Acute,Recovered
+Bulldog,Female,Yes,6.1,13.4,Acute,Recovered
+German Shepherd,Male,No,4.6,15.0,Chronic,Recovered
+German Shepherd,Female,Yes,3.4,22.4,Acute,Recovered
+Labrador Retriever,Female,Yes,2.9,30.7,Chronic,Recovered
+Labrador Retriever,Female,No,0.8,21.9,Acute,Recovered
+Beagle,Female,No,5.4,18.7,Chronic,Recovered
+Bulldog,Male,Yes,4.0,15.2,Chronic,Recovered
+Beagle,Male,Yes,4.5,18.0,Chronic,Recovered
+German Shepherd,Male,Yes,6.1,29.1,Acute,Recovered
+Bulldog,Male,Yes,5.4,21.4,Chronic,Ongoing
+Beagle,Male,Yes,1.5,17.0,Chronic,Recovered
+Beagle,Female,Yes,6.3,20.6,Chronic,Recovered
+German Shepherd,Male,Yes,0.2,13.5,Chronic,Recovered
+German Shepherd,Female,Yes,7.6,26.0,Acute,Recovered
+Beagle,Female,No,4.4,18.0,Chronic,Ongoing
+Poodle,Female,Yes,4.1,22.0,Chronic,Ongoing
+Poodle,Female,Yes,2.0,17.0,Chronic,Recovered
+Beagle,Female,Yes,3.3,16.0,Chronic,Ongoing
+Bulldog,Male,No,6.4,16.5,Chronic,Recovered
+Poodle,Female,No,10.1,17.4,Acute,Recovered
+Labrador Retriever,Male,Yes,6.0,27.8,Chronic,Recovered
+Beagle,Male,Yes,7.8,11.7,Chronic,Recovered
+Labrador Retriever,Female,Yes,5.2,18.9,Acute,Recovered
+Beagle,Male,Yes,0.2,17.7,Acute,Recovered
+Poodle,Male,Yes,3.9,19.8,Acute,Recovered
+Bulldog,Female,Yes,7.9,18.9,Acute,Recovered
+Bulldog,Female,Yes,3.2,16.1,Acute,Recovered
+Labrador Retriever,Male,Yes,6.5,24.0,Chronic,Ongoing
+Labrador Retriever,Male,Yes,7.3,15.8,Acute,Recovered
+Beagle,Male,No,4.9,23.5,Acute,Recovered
+Labrador Retriever,Female,Yes,1.6,18.6,Chronic,Ongoing
+Labrador Retriever,Female,Yes,4.1,21.9,Acute,Recovered
+Poodle,Male,Yes,5.6,24.0,Acute,Recovered
+Bulldog,Male,Yes,8.1,8.5,Acute,Deceased
+Beagle,Female,Yes,4.8,14.9,Chronic,Ongoing
+Poodle,Female,Yes,4.9,11.9,Acute,Recovered
+Bulldog,Female,No,1.8,27.3,Acute,Ongoing
+Bulldog,Female,No,5.5,22.8,Acute,Recovered
+German Shepherd,Male,Yes,4.6,24.3,Acute,Ongoing
+German Shepherd,Female,Yes,5.5,25.9,Acute,Recovered
+Labrador Retriever,Male,Yes,0.8,10.5,Acute,Deceased
+Labrador Retriever,Female,Yes,9.2,20.5,Chronic,Recovered
+German Shepherd,Female,No,0.1,25.6,Acute,Recovered
+Poodle,Male,Yes,5.9,23.3,Acute,Recovered
+Beagle,Female,Yes,3.0,20.1,Chronic,Recovered
+Poodle,Female,No,3.5,24.1,Acute,Recovered
+Bulldog,Female,No,3.8,20.7,Acute,Recovered
+Bulldog,Female,Yes,3.0,23.0,Acute,Recovered
+Poodle,Male,Yes,0.1,24.0,Acute,Deceased
+Labrador Retriever,Male,No,7.9,17.8,Chronic,Deceased
+Bulldog,Female,Yes,0.3,24.2,Chronic,Recovered
+Poodle,Female,No,4.7,13.0,Acute,Ongoing
+German Shepherd,Male,No,4.5,20.3,Acute,Recovered
+Beagle,Male,Yes,9.3,17.2,Chronic,Recovered
+Poodle,Male,No,0.7,24.1,Acute,Recovered
+Beagle,Male,Yes,0.2,12.5,Acute,Recovered
+Labrador Retriever,Male,Yes,1.3,16.6,Acute,Recovered
+Poodle,Female,Yes,8.9,21.4,Acute,Recovered
+Labrador Retriever,Male,No,4.3,18.9,Acute,Deceased
+Bulldog,Male,Yes,6.9,34.0,Chronic,Recovered
+Beagle,Female,No,4.3,20.8,Chronic,Recovered
+Beagle,Female,Yes,6.0,28.3,Chronic,Recovered
+Bulldog,Female,No,3.8,26.2,Acute,Recovered
+Poodle,Female,Yes,3.7,15.6,Chronic,Recovered
+German Shepherd,Male,Yes,6.1,20.2,Chronic,Recovered
+German Shepherd,Male,No,6.9,16.1,Chronic,Recovered
+Beagle,Female,Yes,5.8,18.9,Chronic,Recovered
+Poodle,Male,Yes,4.8,28.4,Acute,Recovered
+Beagle,Male,Yes,5.3,16.5,Acute,Recovered
+Beagle,Female,No,5.9,22.5,Chronic,Ongoing
+Labrador Retriever,Female,Yes,2.7,9.9,Acute,Recovered
+German Shepherd,Female,Yes,1.4,24.1,Acute,Recovered
+Poodle,Female,No,8.5,15.2,Acute,Recovered
+Beagle,Male,No,4.3,21.2,Acute,Recovered
+Poodle,Female,Yes,1.0,18.0,Acute,Recovered
+Poodle,Male,No,8.4,17.6,Chronic,Recovered
+Poodle,Female,Yes,5.8,15.3,Acute,Ongoing
+German Shepherd,Female,Yes,4.1,12.4,Acute,Recovered
+Bulldog,Male,Yes,7.2,12.9,Acute,Ongoing
+German Shepherd,Female,No,4.0,27.7,Chronic,Recovered
+Poodle,Male,No,2.8,14.3,Chronic,Recovered
+German Shepherd,Female,No,4.1,8.2,Chronic,Recovered
+Labrador Retriever,Male,No,7.2,14.4,Acute,Recovered
+German Shepherd,Male,No,8.3,25.9,Acute,Recovered
+Poodle,Male,Yes,0.3,30.3,Acute,Recovered
+German Shepherd,Male,Yes,5.8,25.5,Chronic,Recovered
+Labrador Retriever,Male,Yes,11.1,22.3,Chronic,Ongoing
+Labrador Retriever,Male,Yes,6.8,22.9,Acute,Ongoing
+German Shepherd,Male,No,7.0,23.1,Acute,Recovered
+Poodle,Female,Yes,4.1,22.8,Acute,Recovered
+Poodle,Male,Yes,1.3,19.7,Chronic,Ongoing
+Beagle,Male,Yes,4.8,18.3,Acute,Recovered
+Poodle,Male,Yes,6.3,16.7,Acute,Ongoing
+Bulldog,Female,Yes,4.3,20.3,Acute,Deceased
+Poodle,Male,Yes,4.3,29.1,Chronic,Recovered
+Bulldog,Male,No,1.1,20.6,Acute,Ongoing
+Bulldog,Female,Yes,5.3,20.2,Chronic,Ongoing
+Beagle,Male,No,10.2,21.1,Chronic,Ongoing
+Beagle,Male,Yes,6.9,11.2,Chronic,Ongoing
+Poodle,Male,Yes,7.1,27.3,Acute,Recovered
+Poodle,Female,Yes,5.5,12.8,Acute,Recovered
+Bulldog,Female,Yes,1.9,23.9,Chronic,Ongoing
+Beagle,Male,Yes,10.5,15.8,Acute,Ongoing
+Beagle,Female,No,2.5,18.2,Chronic,Ongoing
+Poodle,Male,Yes,0.4,12.1,Acute,Recovered
+Labrador Retriever,Male,Yes,3.6,18.5,Acute,Recovered
+Labrador Retriever,Female,Yes,0.2,17.6,Acute,Recovered
+Labrador Retriever,Male,No,4.4,19.4,Acute,Recovered
+Beagle,Female,No,1.7,15.3,Chronic,Recovered
+Labrador Retriever,Male,Yes,5.7,14.9,Acute,Recovered
+Labrador Retriever,Female,Yes,8.5,21.5,Chronic,Ongoing
+Poodle,Male,No,4.3,14.1,Acute,Recovered
+Poodle,Male,Yes,7.1,34.2,Chronic,Recovered
+German Shepherd,Female,Yes,3.6,22.9,Chronic,Recovered
+Labrador Retriever,Male,No,6.4,16.6,Acute,Ongoing
+Bulldog,Female,Yes,4.8,15.4,Chronic,Recovered
+Labrador Retriever,Male,No,6.0,16.9,Acute,Recovered
+Labrador Retriever,Female,Yes,1.1,13.3,Acute,Recovered
+Labrador Retriever,Male,Yes,6.2,12.3,Chronic,Recovered
+Labrador Retriever,Female,No,0.8,14.1,Acute,Recovered
+Poodle,Male,Yes,6.3,25.0,Chronic,Recovered
+Poodle,Male,No,5.2,23.8,Acute,Ongoing
+Labrador Retriever,Female,Yes,1.5,31.6,Acute,Ongoing
+German Shepherd,Female,Yes,2.3,27.6,Chronic,Recovered
+German Shepherd,Male,Yes,8.4,20.1,Acute,Deceased
+Labrador Retriever,Male,Yes,2.2,9.8,Chronic,Ongoing
+Bulldog,Female,Yes,4.4,22.7,Acute,Recovered
+Poodle,Male,Yes,5.7,25.6,Chronic,Ongoing
+Beagle,Male,Yes,1.2,20.6,Chronic,Recovered
+Bulldog,Female,Yes,2.9,22.3,Acute,Recovered
+Poodle,Male,Yes,6.5,21.7,Chronic,Ongoing
+Beagle,Male,No,3.2,18.7,Acute,Recovered
+German Shepherd,Male,Yes,7.0,17.1,Chronic,Recovered
+German Shepherd,Female,No,3.1,21.6,Acute,Ongoing
+Poodle,Female,No,6.6,26.3,Chronic,Recovered

@@ -1,0 +1,39 @@
+---
+title: "Final Project: Veterinary Health Data Analysis"
+author: "Maia Paluch"
+format: html
+---
+
+# 𓄯 Overview
+
+This project uses clinical data from 500 canine medical records from the vet office I work in to investigate how breed, age, neuter status, and weight impact veterinary health outcomes.
+
+# .ᐟ Research Questions
+
+1.  Can we predict a dog’s likelihood of recovery using basic patient characteristics?
+2.  Is there a relationship between neutering and mortality?
+3.  Which dog breeds are most likely to suffer from chronic illness and at what age?
+
+# 𓃦 Methods
+
+We used: - Logistic regression to model recovery - Chi-square test to assess neutering and mortality - Descriptive summaries for chronic illness by breed
+
+# ☁︎ Key Findings
+
+-   Older dogs have slightly lower recovery chances.
+-   Neutered dogs had lower mortality rates.
+-   Bulldogs and Beagles were most frequently diagnosed with chronic illness, around age 5.
+
+# ⟡ Files in This Project
+
+| File                               | Description                           |
+|------------------------------------|---------------------------------------|
+| `canine_clinical_records_2024.csv` | Veterinary dataset                    |
+| `vetmed_final_project.R`           | Full R analysis                       |
+| `final_report.qmd`                 | This Quarto report                    |
+| `final_report.html`                | Rendered HTML output (for submission) |
+
+# 𓃢 How to Reproduce
+
+1.  Run `vetmed_final_project.R` in RStudio
+2.  Click **Render** on this `.qmd` to generate the HTML report
